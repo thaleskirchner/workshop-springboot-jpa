@@ -8,6 +8,10 @@ A RESTful API built with **Spring Boot** for managing an e-commerce system, incl
 
 This is a back-end API for an online sales system. It exposes REST endpoints for the main domain entities and follows a layered architecture (Resource → Service → Repository).
 
+📖 Detailed documentation (in Portuguese):
+- [`docs/DOCUMENTACAO.md`](docs/DOCUMENTACAO.md) — what the application does, domain model, endpoints, business rules.
+- [`docs/TESTES.md`](docs/TESTES.md) — purpose of each unit and integration test.
+
 ---
 
 ## 🏗️ Architecture
